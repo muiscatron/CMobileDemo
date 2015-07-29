@@ -1,0 +1,21 @@
+{
+  "name": "CMobile",
+  "version": "0.0.0",
+  "authors": [
+    "Conor McCarthy <mhuiscatron@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ionic": "driftyco/ionic-bower#master"
+  }
+}
